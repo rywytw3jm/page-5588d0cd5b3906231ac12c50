@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "17f0c104c27e564568adc3ff",
+  "owner": "rywytw3jm",
+  "repo": "page-5588d0cd5b3906231ac12c50",
+  "title": "极客云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5588d0cd5b3906231ac12c50",
+      "a": "极客云",
+      "b": "2027最新官网",
+      "entity": "极客云",
+      "brand": "极客云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f3f305e0e70168f91e23ba4d3b87fcbcbc418df26e3e25764b13a9edb06d262e",
+      "content": {
+        "primary_entity": "极客云",
+        "keyword1": "极客云",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按系统选择适配客户端，路由器场景可参考订阅导入说明。",
+          "AI_CLIENTS_TITLE": "多设备客户端选择",
+          "AI_CLOSING_TEXT": "从适合的套餐开始，按客户端文档完成配置。",
+          "AI_CLOSING_TITLE": "完成你的极客云配置",
+          "AI_DESCRIPTION": "，围绕订阅导入、设备数量与套餐周期提供实际参考。基础版每月15元、年付150元，旗舰版每月35元、年付350元，团队版每月85元、年付850元，流量与在线设备数依次递增。",
+          "AI_FEATURES_INTRO": "从套餐、设备与周期三个角度快速定位。",
+          "AI_FEATURES_TITLE": "选择前了解要点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB流量、3台设备，适合轻度使用；旗舰版300GB、5台设备，兼顾流媒体与游戏。",
+          "AI_FEATURE_TEXT_2": "团队版每月1000GB流量、20台设备，支持企业定制路由与专属客户经理。",
+          "AI_FEATURE_TEXT_3": "三档均提供年付优惠，按年付基础版150元、旗舰版350元、团队版850元，可按需切换。",
+          "AI_FEATURE_TITLE_1": "套餐按用量区分",
+          "AI_FEATURE_TITLE_2": "设备数量弹性",
+          "AI_FEATURE_TITLE_3": "周期与价格",
+          "AI_GUIDE_INTRO": "选择套餐、查看适配、按客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "三步开始使用极客云",
+          "AI_HERO_INTRO": "极客云提供基础版、旗舰版与团队版三档订阅，覆盖每月100GB至1000GB流量和3至20台设备，适应个人到团队的不同加速需求。",
+          "AI_HERO_SUBTITLE": "多档订阅灵活选择",
+          "AI_HIGHLIGHT_1": "三档套餐按用量区分",
+          "AI_HIGHLIGHT_2": "支持3至20台设备",
+          "AI_HIGHLIGHT_3": "年付方案价格更优",
+          "AI_PLANS_INTRO": "基础版每月15元、旗舰版35元、团队版85元，年付分别150元、350元和850元，按设备数与流量选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量与同时在线设备数，在基础版、旗舰版、团队版中选择。",
+          "AI_STEP_TEXT_2": "确认所持设备系统与客户端适配要求，了解订阅导入方式。",
+          "AI_STEP_TEXT_3": "参考所选客户端的配置文档，导入极客云订阅信息。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "极客云加速方案",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，可 3 台设备同时在线；旗舰版每月 300GB，最多 5 台设备；团队版每月 1000GB，支持 20 台设备。可根据日常使用人数和流量消耗选择合适档位。",
+          "AI_FAQ_ANSWER_2": "常见客户端有 Windows 和 macOS 的 Clash Verge、iOS 的 Shadowrocket 或 Stash、Android 的 Clash Meta for Android 或 v2rayNG，以及 OpenWrt 路由器插件。选择对应系统的客户端导入订阅即可。",
+          "AI_FAQ_ANSWER_3": "可先根据设备数量选择：1 到 3 台选基础版，4 到 5 台选旗舰版，超过 5 台建议团队版。流量需求较大或有游戏加速需求时，旗舰版的 IPLC 专线节点更合适。",
+          "AI_FAQ_ANSWER_4": "支持按年付费，基础版按年付 ¥150/年，旗舰版按年付 ¥350/年，团队版按年付 ¥850/年。月付与年付可灵活切换，按需选择即可。",
+          "AI_FAQ_ANSWER_5": "在客户端中复制订阅链接并手动添加配置，或通过二维码扫描导入。不同客户端操作略有差异，可参照对应客户端的订阅导入文档进行设置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐的流量和设备限制有什么区别？",
+          "AI_FAQ_QUESTION_2": "支持哪些客户端？",
+          "AI_FAQ_QUESTION_3": "怎么判断自己该选哪个套餐？",
+          "AI_FAQ_QUESTION_4": "套餐是否支持年付？年付价格是多少？",
+          "AI_FAQ_QUESTION_5": "订阅链接怎么导入客户端？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "let-s.cn",
+    "host": "let-s.cn"
+  },
+  "file_hashes": {
+    "index.html": "e249bf6b9bc4a9010befee5ec1b72151b03116c2104381ae178108010d441e6b",
+    "sitemap.xml": "7b65d66052ef0e3160ef83f88f343d63ea00a5739fad17fdcf45140c868fc461",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2916875f1e0914e23ed9c7d6d0b10878c15832772d39fe9b93e65399bebb539d",
+    "robots.txt": "ed76558de34f19e2e69a985f8d0e0f3620b749646ef641c3dd534a57ddf5f554",
+    "efdd818971d13af819d73b735fab71e3.txt": "948e60f7b6ba397b7f8d1415a76bbbb7b1f70506a8c134ad71897bce936113c1"
+  },
+  "revision": "cd60fae951b6d4910c803ffc4a011dea522348b64e27e176539db6181b73df0b"
+}
